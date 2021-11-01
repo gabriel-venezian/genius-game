@@ -91,6 +91,8 @@ const padListener = (e) => {
 			newColor();
 			playSequence();
 		};
+
+		waitForPlayerClick();
 	}, 250);
 };
 
