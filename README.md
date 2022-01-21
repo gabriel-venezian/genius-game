@@ -10,7 +10,7 @@ The game objective is to repeat the process without making any mistakes.
 
 <a href="https://gabriel-venezian.github.io/genius-game"><img src="https://img.shields.io/badge/Play%20Now-3152A0?style=for-the-badge" alt="Play Now Button"></a>
 
-## Functions
+## Game difficulty
 <b>Normal Mode:</b> Even if you make mistakes, the game will repeat the sequence until you pass it.<br />
 <b>Strict Mode:</b> Play for as long as you can. When you make any mistake the game starts again with a new sequence.
 
