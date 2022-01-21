@@ -12,7 +12,7 @@ The game objective is to repeat the process without making any mistakes.
 
 ## Functions
 <b>Normal Mode:</b> Even if you make mistakes, the game will repeat the sequence until you pass it.<br />
-<b>Strict Mode:</b> Play for as long as you can. When you make any mistakes the game you start again with a new sequence.
+<b>Strict Mode:</b> Play for as long as you can. When you make any mistake the game starts again with a new sequence.
 
 ## Credits
 This game was developed with the help of [inkasadev](https://github.com/inkasadev) during the course "How to Make a JavaScript Responsive Game", available on [YouTube](https://www.youtube.com/watch?v=iPI-exnefBo&list=PL28O_hEAqjAtOPTlRHkHrhfmct_USCGfI).
