@@ -8,7 +8,7 @@ Have you ever played Genius?
 Genius was a very popular toy in the 80's. With a shape similar to a UFO, it has colored controls that emit harmonic sounds and lit up in sequence. 
 The game objective is to repeat the process without making any mistakes.
 
-<a href="https://gabriel-venezian.github.io/genius-game"><img src="https://img.shields.io/badge/View%20Live-238636?style=for-the-badge" alt="Play Now Button"></a>
+<a href="https://gabriel-venezian.github.io/genius-game"><img src="https://img.shields.io/badge/View%20Live-3152A0?style=for-the-badge" alt="Play Now Button"></a>
 
 ## Game difficulty
 <b>Normal Mode:</b> Even if you make mistakes, the game will repeat the sequence until you pass it.<br />
